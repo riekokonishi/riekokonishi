@@ -1,10 +1,9 @@
 ## (❁´◡`❁)ﾉﾞ hi, how are you?
 
-```
-# stats
+```python
 name = "rieko"
-school = "UCI"
-age = 101
+pronouns = ["she", "her", "hers"]
+school = "UC Irvine"
 fav_form_potat = hash("#964B00")  # jk I actually love all potats equally 
 ```
 
