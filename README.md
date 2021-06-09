@@ -4,7 +4,8 @@
 name = "rieko"
 pronouns = ["she", "her", "hers"]
 school = "UC Irvine"
-fav_form_potat = hash("#964B00")  # jk I actually love all potats equally 
+potatoes = hash("#964B00")
+fav_languages { 1: "C/C++", 2: "Python", 3: "Java"}
 ```
 
 
