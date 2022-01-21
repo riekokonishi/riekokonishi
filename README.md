@@ -5,7 +5,7 @@ name = "rieko"
 pronouns = ["she", "her", "hers"]
 school = "UC Irvine"
 potatoes = hash("#964B00")
-fav_languages { 1: "C/C++", 2: "Python", 3: "Java"}
+fav_languages = { 1: "C/C++", 2: "Python", 3: "Java"}
 ```
 
 
